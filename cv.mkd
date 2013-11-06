@@ -1,15 +1,212 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Jornalismo, Área de Semântica, Tsuru
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+CURRICULUM VITAE
+•	DADOS PESSOAIS 
+Nome: Gustavo Portela de Melo Lobato         Data de Nascimento: 22/03/1986 
+E-MAIL: gustavo@gpsolucoes.com                  Fones: 83 8870-9907
+End: João Pessoa – PB Nacionalidade: Brasileira / Estado Civil: Casado.
+
+•	FORMAÇÃO ACADÊMICA
+Formação: Bacharel em Sistemas de Informação / Instituição: IESP 
+Monografia: MELHORES PRÁTICAS DE GOVERNANÇA DE TI: JUSTIFICATIVA, VANTAGENS E RESULTADOS
+Pós Graduação: MBA – Ger. de Projetos – Fund. Getúlio Vargas – FGV 2011-2013
+
+•	INFORMAÇÕES ADICIONAIS
+Idiomas: Inglês Nível Intermediário, conversação, escrita e técnica facilidade geral por já ter morado nos EUA quando criança; 
+
+Experiência em lidar com clientes internos e externos, ministrar cursos e palestras, facilidade de adquirir conhecimentos de forma autodidata, busca incessante por novos conhecimentos, prazer em freqüentar eventos e promover a evolução de todos em minha volta. Compromisso com o resultado final e retorno esperado. Ampla experiência em análise e desenvolvimento de projetos WEB ou desktop, Sites, intranets, e extranets. Boa aparência física e postura profissional, ótimo português e visão sistêmica dos processos que envolvem o negócio.
+
+Atualmente focado com conhecimentos avançados nas áreas de Governança de TIC, Gerência de Projetos, Desenvolvimento Web, ScriptCase, Redes/Servidores (Mikrotik/Linux).
+
+•	PARTICIPAÇÃO EM ENTIDADES E PARCEIROS
+•	Terceirização de projetos para Agência de São Paulo – Cherry Plus: Detentora de grandes contas de multinacionais.
+•	Terceirização de Projetos para Rede Comunicação – Agência de Cuiabá – MT
+•	Participação ativa e influente no Farol Digital – Associação de empresas de TIC/PB
+
+•	OBJETIVOS:
+Crescer e fazer com que a empresa cresça em todos os sentidos desde profissionais á financeiros. Estabelecer metas e fazer parte da solução de problema. Buscar o crescimento profissional visando sempre a qualidade dos serviços prestados. Atuar de forma ética, buscando inovação para tornar os processos mais ágeis e automatizados, dinamizando os processos de todos os setores.
+
+•	EXPERIÊNCIA PROFISSIONAL
+•	Cooperativa de Crédito Mútuo dos Policiais Federais na Paraíba -FEDERALCRED-PB (2002-2007): Trabalho em redes, LAN, WAN, VPNs, Segurança, Desenvolvimento de sistemas e da intranet,administração de banco de dados, Suporte,  Conhecimentos bancários aprofundados, Sistemas interligados dentre outros. Funções desempenhadas: Chefe do Setor de Crédito, Assistente de Tecnologia.
+
+•	Cooperativa de Crédito Mútuo dos Policiais Federais no Rio grande do Norte FEDERALCRED RN (2007) Cargo: Gerente Geral, fui convocado para abrir a cooperativa montando toda sua estrutura desde a operacional a comercial, tecnológica,administrativa, gestão, marketing, crédito, equipe e diretrizes junto a Central localizada em Maceió - Alagoas.
+
+Grupo GPSoluções- Geração e Produção de Soluções em Tecnologia da informação e comunicação: Sócio Proprietário/Fundador, Gerente de Projetos e Diretor Executivo – CEO de 2004 ate hoje. Prestação de consultoria para clientes em Marketing Virtual, Segurança & Auditoria de Sistemas, Gerenciamento de equipes e projetos, negociações comerciais e gestão do ROI dos clientes. 
+•	Formação do Grupo GPSoluções:
+o	GPSMarketing: Marketing Digital e 360º
+o	GPSoluções-TIC: Sites/Sistemas/Lojas Virtuais
+o	GPS-Provider: Redes, Servidores e Segurança Digital
+o	GPS-Host: Hospedagem, computação em Nuvem, Location
+o	GPSTreinamentos: Treinamentos Avançados em TIC
+o	GPSNet: Soluções/Serviços Gratuitos
+•	SISTEMAS (ERP) DE COOPERATIVAS DE CRÉDITO
+•	Sistema de Cooperativas Sicredi: Ampla experiência técnica / operacional; 
+•	Sistema de Cooperativas Coopcred: Curso Oficial/Maceió-AL junto com a equipe de Cooperativas de vários estados. Migração, implantação, administração do banco de dados com ampla experiência técnica/operacional.
+•	Sistema de Cooperativas Syscoop: Ampla experiência operacional e técnica.
+
+•	CURSOS PROFISSIONAIS E CERTIFICADOS
+•	-Webdesigner(Treinasoft 2002-2003): Corel Draw 10, Photo-Paint, Photoshop 7, HTML, Front Page, Flash MX e HTML;
+•	-Conectiva Linux (Professor Marcos Túlio Administrador Chefe do CPD do Senac-2003):Administração Avançada, Gerenciamento Geral, Serviços, Pacotes, Segurança;
+•	-Matemática Financeira(SEBRAE-2003): Fundamentos e Práticas com a Calculadora HP12C: Operações Financeiras, Conceitos Gerais, Coeficientes de Financiamentos...
+•	-Programação de Desenvolvimento de Softwares para Web(Treinasoft 2004): Access Básico e Avançado, DreamWeaver MX, Java Script, Active Server Pages-ASP, SQL Server, Programação Básica e Delphi
+•	- Curso de Segurança da Informação: 1º Curso de tecnologia Anti-Crackers NETSEGURA (2004-Fortaleza) CADMO NETWORKS / Conpsys;
+•	- Qualidade e Excelência no Atendimento ao Cliente Interno e Externo SEBRAE-PB 2005
+•	- Oratória: Técnicas para saber falar bem em público.(SEBRAE 2005)
+•	- HP12 Matemática Financeira (SEBRAE-PB 2005)
+•	-  Banco de dados ORACLE 10g PL/SQL(Consulting Tecnologia 2006/Maceió–AL)
+•	- Linguagem de programação JAVA para Certificação(J2EE e J2SE) 2006 - Linuxfi
+•	- Planejamento Estratégico (Março 2007): Evento do sistema Federalcred, como gerente da Federalcred Rio grande do Norte.
+•	- Membro do Comitê de Tecnologia da Informação e Comunicação da Federalcred Central - 2007
+•	- Bolsa de Valores: Curso ministrado pela Focus Finance/GPSoluções - 2008
+•	- Técnicas de Vendas: Aplicações e técnicas por Amelia guimarães SEBRAE-PB 2008
+•	- Como Vender Mais e Melhor: Ferramentas de comerciais por Amélia Guimarães SEBRAE-PB (2008)
+•	ITIL V3 Curso Oficial para Certificação: Gestão com foco no cliente e na qualidade dos serviços de tecnologia da informação (TI), com os quais uma organização pode fazer sua gestão tática e operacional em vista de alcançar o alinhamento estratégico da TI com o negócio.
+o	Trainning-SP Setembro/2009 :: Ulisses Giovanini
+o	Trainning-SP Outubro/2010 :: Adalberto de Souza B.
+o	Trainning-SP Janeiro/2011 :: Raymilton Labussiere 
+•	- COBIT (Trainning-SP 2009): Curso Oficial para Certificação / Gestão e Governança de TI. Práticas para aplicação da governança nas corporações.
+•	- Curso Oficial Mikrotik Router OS - Oficial para certificação internacional
+o	Mikrotik Brasil (Janeiro/2008 Recife-PE),pioneira no País. Versão 2.9
+o	FS Internet(Dezembro/2009) 55% de aprovação MTCNA. Versão 3.3
+o	Lancore(SP)(Janeiro/2011) 75% de aprovação MTCNA. Versão 4
+o	GPSTreinamentos (2011 e jun/2012): MTCNA
+•	E MTCWE – Wireless Engineer – Obtendo 75% na certificação oficial internacional
+•	-EMPRETEC (2009 SEBRAE-PB / Programa das Nações Unidas para o desenvolvimento): Objetivo de identificar e aumentar o potencial empresarial e empreendedor com uma metodologia de base vivencial de alto impacto, voltado para resultados.
+•	- ScriptCase (Netmake / Recife /2010) Software de Desenvolvimento Ágil de sistemas web
+•	SebraeTec (SEBRAE 2012) – Estratégias empresariais – Programa SEBRAE Mais
+•	Ruby On Rails ( Linux FI 2012) – Linguagem de programação ágil para WEB.
+
+•	PALESTRAS E EVENTOS
+DESENVOLVIMENTO
+•	-I Workshop Agilidade Paraíba(Scrum-PB 2010): Palestras sobre metodologias ágeis de gerenciamento de projetos. Temas: Scrum, TDD/Testes, FireScrum, dentre outros
+•	- Encontro de Software Livre 2.0 - 2008 Stand Gold da GPSoluções/Cursos, 3.0 - 2009 e IV em 2010
+•	- ISEMINAR (Recife PE 2009): Evento de Tecnologia da Informação e Comunicação
+•	- EDTED - Encontro de Design e Tecnologia Digital (PE)(2009)
+•	- III Encontro PHP-PB (2009): 
+•	- Framework Maker (Softwell 2009 PB): Desenvolvimento Ágil JAVA WEB
+•	- 12º EWD Recife(2008) / 13 º EWD Recife(2009): Encontro de Web Designers com grandes nomes da área a nível internacional
+
+•	SEGURANÇA / REDES 
+•	- MUM - Mikrotik User Meeting(RJ 11/2009): Encontro mundial de Mikrotik
+•	- ICCyber (2009 Natal RN): Conferência Internacional de Perícias em Crimes Cibernéticos
+•	- Workshop de Ethical Hacking (CBATELECOM – Rep. Cisco 2008 / Clube do Hacker)
+•	- Seminário de Crimes Eletrônicos(2009 FECOMERCIO - SP): Segurança Digital
+•	- Congresso de Segurança e Hackers de PE(Setembro 2008): Invasao.com.br
+•	Segurança e Performance em aplicações web (Felipe Ribeiro-Certificado Zend IDEZ 2010)
+•	Segurança/Performance WEB: A nova fronteira (2011 Rodrigo Assad C.E.S.A.R)
+
+•	LIDERANÇA / ENPREENDEDORISMO / INOVAÇÃO
+•	- Feira do empreendedor-(PB 2009): Participação em Stand da GPSoluções / Farol Digital
+•	Global Leadership Summit (2008, 2009, 2010 Cidade Viva)
+•	- Palestra sobre Inovação (SEBRAE-PB)(2009) com Claudio Former, Consultor de empresas e do programa Aprendiz 2009 
+•	- Palestra Mobilidade e Empreendedorismo (Dir. Nokia / IDEZ-JP 2009)
+•	- Seminário de Certificações Internacionais (2009 Faculdade Impacta Tecnologia-SP/Presidente da LPI Internacional)
+•	- I Jornada paraibana de educação a distancia - Estação Ciência e Tecnologia - UFPB (2009)
+•	- DESCOBRINDO SUA FORÇA PARA LUCRAR MAIS - Rodrigo Cardoso(2008)
+•	- "O MOMENTO DA SUA VIRADA" - Cesar Souza 2008
+•	- I Encontro Paraibano de Empreendedorismo(2008) – Estação Ciência e Tecnologia
+•	- II Encontro Paraibano de Empreendedorismo(2009) -  Cidade Viva
+•	-I(2008), II(2009) e III ETICO(2010) (Grupo WSCOM ) - Encontro da Tecnologia da informação e comunicação do Nordeste.
+•	-Palestra Lidere aonde você estiver (Instituto Cidade Viva 2009) – Mário K. Simões
+•	- Seminário de Mídias Digitais (TV Cabo Branco 2010)
+•	- Curso de Marketing digital e as Eleições 2010 ( Sebrae-PB 2010)
+•	- Fórum Nordeste Digital (Digitalks Março/2011): Os melhores players/agências do país reunidos em uma maratona nacional com palestras técnicas de Marketing Digital e práticas sobre empreendedorismo e ações comerciais.
+•	- EliteDay ( GPSTreinamentos Março/2011): Encontro dos profissionais de Elite da Tecnologia da informação e comunicação (Scriptcase, Empreendedorismo, Mikrotik, ITIL V3, Marketing Digital) .
+•	BITS 2011 - Feira/Congresso Internacional de Tecnologia realizada em Porto Alegre-RS com os grandes players mundiais de TIC.
+
+•	CONHECIMENTOS ADQUIRIDOS E EXPERIÊNCIA/PRÁTICA
+•	- Bancos de Dados: MYSQL, Sybase, DBF, POSTGRESQL
+•	- Programação WEB: PHP - Nível Avançado, desenvolvimento especialista com experiência e prática com mais de 6 anos.
+•	-Programação JAVA - NÍVEL MÉDIO(DESKTOP / WEB)
+Sistemas Operacionais:
+•	-Servidores: Windows Server, Linux (Debian, Slackware, Ubuntu, RedHat, Conectiva, Fedora, MIKROTIK Router OS);
+•	-Desktops: Kurumin, Mandriva, Ubuntu;
+•	-Offices: OpenOffice, StarOffice, BROffice, Microsoft Office;
+•	Redes (WAN,WLAN,LAN,VLAN,VPNs), Provedores de Internet(ISP)
+•	Serviços: FTP, Web, Firewalls, IDS/IPS, HoneyPots, E-mails, Proxys, DNS, VPN, GATEWAYS. Segurança nível avançado.
+•	MINISTRAÇÃO DE CURSOS, PALESTRAS / PRÊMIOS / Certificações
+•	- RHSolutions(Automação de Recursos Humanos): Projeto de iniciação científica IESP 2006 
+•	- Mikrotik Router OS - Servidores e Rádios Avançados - 2008 GPSoluções
+•	- Mikrotik Router OS – MTCNA (Proxy/HotSpot/Sistemas) – 2011.1 GPSTreinamentos
+•	- Mikrotik Router OS - Essentials – 2011.2 GPSTreinamentos
+•	- Mikrotik Router OS – MTCNA Oficial 2012.1 GPSTreinamentos / Alive Solutions
+•	- Curso PHP - Portais Corporativos (Equipe de programadores da GPSoluções 2008)
+•	- Palestra sobre Empreendedorismo com TIC – EliteDay Março/2011
+•	- 28º Colocação no concurso do TRT 13º Região de 2005 
+•	- Simpósio Paraibano de Inovação (Clipper Eventos 2011): 
+•	Participação da mesa redonda / Troféu do evento
+•	- Troféu TOP OF BUSINESS: Sheraton Rio de Janeiro/Julho/2011
+•	-Certificação MTCWE – Mikrotik Wireless Engineer - 2012.1 - Alive Solutions
+•	-Palestras sobre Marketing Digital e Empreendedorismo no EliteDay (GPSTreinamentos / SEBRAE-JP Março/2011): Encontro dos profissionais de Elite da Tecnologia da informação e comunicação 
+•	- Reuniões internacionais no espaço All Invest da Feira/Congresso Internacional de Tecnologia BITS realizada em Porto Alegre-RS em Maio/2011 com empresas da Bulgária, Portugal(Contrato), Uruguay, Alemanha e Romênia
+
+•	ALGUNS PROJETOS DESENVOLVIDOS
+INTERNET / SITES / SISTEMAS WEB : 
+•	Facebook – FanPages (2012): GPSTreinamentos, GPSoluções, Le Lis Blanc, Corello, Shop2Gether, Marcos Proença(Fotógrafo Arezzo), 
+•	Site da AREZZO S/A Internacional (2011/2012): Sistema de Automação completo
+•	Site institucional da Red Bull S/A (2011/2012): 2 Games + Automação/Gestão em 3 idiomas
+•	Site da Grife Mya Haas – SP (2011): Montagem e Automação completa
+•	Site da Marca Restoque S/A (Grupo Le Lis Blanc) (2011)
+•	SGA: Sistema de gravação de audiências para AMPB - Associação dos Magistrados(Juízes) do estado, tendo representatividade nacional e em análise de viabilidade de implantação no 1º TRF em Brasília e estando em testes no TJ-PI, TJ-PB, TJ-MA dentre outros.
+•	Secretaria de Saúde do Governo do Estado da PB: Gestão do Almoxarifado.
+•	Internet Banking do sistema de cooperativas da Polícia Federal e Rodoviária Federal - Federalcred (2008) composto de mais de 10 cooperativas no Brasil. Diversas opções de consulta de conta possuindo várias técnicas de segurança.
+•	Intranet Federalcred: Sistema de Interação e automação de diversos processos via web,consignação em folha de pagamento, distribuição de sobras, geração de contratos.
+•	THOT - Teste de Habilitação online de Trânsito (Prova oficial) – Detran-CE (2008)
+•	Uniodonto-JP: Site / Sistemas / Servidores / Consultoria em Marketing Virtual
+•	DINAMIC: Sistema de Alimentação e Gerenciamento de Conteúdo de Sites em geral. 
+•	ASSOCIC: Sistema de Automação de Associações e Sindicatos
+o	ANSEF-PB: Associação dos Servidores da Policia Federal (Site/Rede/Servidores/Sistema);
+o	SINPEF-PB: Sindicato dos Policiais Federais(Site / Sistemas)
+o	ANSEF-BA: Ass. dos Pol. Fed. da Bahia
+(Site/Rede/Servidores/Sistema);
+o	SINPRF-BA: Sindicato dos Pol. Rodoviários da Bahia
+(Site/Sistema);
+•	GPProvider: (Sistema de gestão de Provedores)
+•	WEBCOMPILER Compilador via WEB projeto de faculdade.
+•	GPEventos: Sistema de Gestão de Eventos(FIEP 2006 / CBATELECOM 2008)
+•	Acadêmico > Sistema de controle da Coordenação de Pós Graduação de Administração - IESP Faculdades(2006)
+•	GPObras: Sistema de controle operacional e financeiro de obras para construtoras
+•	GPFTP: Sistema de gestão de transferência de arquivos online para Gráfica/Bureau
+•	GPSGraf: Sistema de Automação de gráficas
+•	GPSDoctor Sistema para automação de clínicas odontológicas
+•	GPSAlmoxarifado Gestão de Estoque e Almoxarifado: Secretaria de Saúde do estado da PB
+•	GPSLoja Lojas Virtuais / E-Commerce
+o	Dataradio Brazil Importadora (loja virtual)
+o	Gráfica Mangabeira (Loja Virtual)
+o	Editora Edições Linha D Água: (Loja Virtual)
+o	Fidèle Cosméticos: Site + Loja Virtual
+o	Empório de Modas: (2012) Loja Virtual
+•	GPSImóveis Gestão de Imóveis para imobiliárias (Thop Habitação / More Soluções)
+•	COREN-PB: Conselho Regional de Enfermagem do estado da Paraíba (Portal)
+•	FIEP-PB: Federação Internacional de Educação Física (Site do Evento 2006)
+•	ENPE – Encontro Paraibano de Empreendedorismo (Site do Evento 2011)
+•	Perímetro Sistemas: Segurança Eletrônica / Rastreamento Via Satélite(Site)
+•	Boate Lótus Salvador: Rede de Boates internacional (Site)
+•	BLOGS:
+ReginaldoMarinho.com.br (2009): Inventor premiado
+ElasporElla.com.br: Blog sobre o universo feminino
+
+•	CONSUTORIA EM REDES / SERVIDORES / SEGURANÇA
+•	Inorpel / Well Brasil: Maior provedor de internet Wireless da PB (2007): Consultoria de todo o datacenter de mais de 6 servidores, sistema de gestão completa da empresa GPS-Provider + Site + Mikrotiks fazendo a gestão da internet de milhares de clientes +  Consultoria em Auditoria e Segurança de sistemas
+•	Grupo San Remo: Mais de 16 Lojas: Consultoria e interligação de lojas VPNs (2012)
+•	Grupo Almeida Sarmento (Indústria Ophbras): Interligação de matriz com 4 filiais via VPN com segurança, firewall, controle de acessos utilizando a tecnologia Mikrotik.
+•	Grupo JCarneiro(Renault / Nissan): Servidor de Gestão da rede de interligação das 4 filiais via fibra óptica(Mikrotik).
+•	Ceneage Centro Nacional de Ensino Ambiental e Geração de. Emprego; ( Site / Rede / Servidores / Sistema);
+•	 SIT Tecnologia (Telecomunicações):  Servidor Mikrotik de Gestão da rede e link
+•	Construtora Comtérmica: Rede / Servidor / Sistema / Site
+•	Bureau Digital (Serviços gráficos digitais de Alta definição) - Site / Rede / Servidores / Sistema de gestão das sedes do Rio Grande do Norte, Paraíba e Alagoas;
+•	Inforcopy: Provedor de Internet via Rádio de Itabaiana(Site/Sistemas/Servidores);
+•	UnidasNET: Provedor de internet via rádio de Itabaiana e municípios vizinhos (Site/Sistemas/Servidores);
+•	Wirelink - Provedor de Internet: (Servidores / Sistema / Site)
+•	CRQ-19: Conselho Regional de Química(Site);
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
